@@ -24,12 +24,16 @@
 
 > Git으로 관리되는 프로젝트
 
+<br>
+
 ### **Local Repository**
 
 > \= 로컬 repo  
 > 내 컴퓨터에 저장되어 있는 리포지토리
 
 -   **Tracking (= Branch Tracking)** : 로컬 repo가 원격 repo를 연결하는 것
+
+<br>
 
 ### **Remote Repository**
 
