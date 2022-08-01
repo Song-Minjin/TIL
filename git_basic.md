@@ -24,8 +24,6 @@
 
 > Git으로 관리되는 프로젝트
 
-<br>
-
 ### **Local Repository**
 
 > \= 로컬 repo  
@@ -33,9 +31,7 @@
 
 -   **Tracking (= Branch Tracking)** : 로컬 repo가 원격 repo를 연결하는 것
 
-<br>
-
-### **원격 Repository**
+### **Remote Repository**
 
 > \= 원격 repo  
 > Github처럼 다른 곳에서 접속할 수 있는 공간에 저장되어 있는 것
