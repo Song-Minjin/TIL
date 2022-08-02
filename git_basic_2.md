@@ -38,19 +38,17 @@ Git으로는 다음과 같은 작업 방식을 정말 편리하게 할 수 있�
 
 ## **Github에서 Issue 등록하기**
 
-[##_Image|kage@twpOv/btrILe8KSxH/M1kuWkhF4AmVq8ebcmDrOK/img.png|CDM|1.3|{"originWidth":1462,"originHeight":760,"style":"alignCenter","width":700,"height":364}_##]
-
 -   **Assignees(담당자)** : 이 이슈 작업자 및 연관자
 -   **Labels** : 이 issue가 어떤 종류인지 분류해주는 것. Github이 제공하는 기본 라벨도 사용 가능하며, 직접 만들어 사용도 가능.  
-    -   bug : 예기치 않은 문제 또는 의도하지 않은 동작(버그)
-    -   documentation : 문서를 개선/추가해야 할 필요가 있음
-    -   duplicate : 해당 이슈 또는 PR이 기존에 있음
-    -   enhancement : 새로운 기능 추가/개선 요청
-    -   good first issue : 처음 프로젝트에 참여하는 사람이 작업하기 쉬운 이슈
-    -   help wanted : 관리자가 문제 또는 PR 요청에 대한 도움을 원함
-    -   invalid : 이슈 또는 PR 요청이 더이상 관련이 없음
-    -   question : 이슈 또는 풀 요청에 추가 정보가 필요함
-    -   wontfix : 문제나 PR 요청에서 작업이 계속되지 않음
+    -   `bug` : 예기치 않은 문제 또는 의도하지 않은 동작(버그)
+    -   `documentation` : 문서를 개선/추가해야 할 필요가 있음
+    -   `duplicate` : 해당 이슈 또는 PR이 기존에 있음
+    -   `enhancement` : 새로운 기능 추가/개선 요청
+    -   `good first issue` : 처음 프로젝트에 참여하는 사람이 작업하기 쉬운 이슈
+    -   `help wanted` : 관리자가 문제 또는 PR 요청에 대한 도움을 원함
+    -   `invalid` : 이슈 또는 PR 요청이 더이상 관련이 없음
+    -   `question` : 이슈 또는 풀 요청에 추가 정보가 필요함
+    -   `wontfix` : 문제나 PR 요청에서 작업이 계속되지 않음
 
            \* **PR** = **Pull Request** : 내가 수정한 코드가 있으니 내 branch를 가져가 검토 후 병합해달라 요청하는 것
 
@@ -81,12 +79,9 @@ Git으로는 다음과 같은 작업 방식을 정말 편리하게 할 수 있�
 <br>
 
 ## **Branch 용어 알아보기**
-
-[##_Image|kage@bIyktO/btrIEYl1212/7kbRPkDIAYP94TxbSkKCnk/img.png|CDM|1.3|{"originWidth":537,"originHeight":28,"style":"alignCenter"}_##]
-
--   origin/main : origin(연결된 원격 repo)의 main 브랜치
--   origin/HEAD : 현재 작업중인 commit을 가리킴. 즉, origin(연결된 원격 repo)의 최신 commit
--   main : 로컬 repo의 main 브랜치
+-   `origin/main` : origin(연결된 원격 repo)의 main 브랜치
+-   `origin/HEAD` : 현재 작업중인 commit을 가리킴. 즉, origin(연결된 원격 repo)의 최신 commit
+-   `main` : 로컬 repo의 main 브랜치
 
 <br><br>
 
