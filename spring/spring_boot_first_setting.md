@@ -54,7 +54,7 @@
 
 : Spring boot로 프로젝트를 시작할 건데, 그 중 어떤  library를 가져와서 쓸까?를 정하는 항목
 
-- **Spring Web : 웹 프로젝트를 만들 때 선택
+- **`Spring Web`** : 웹 프로젝트를 만들 때 선택
 
 
 - **`Thymeleaf`** : HTML을 만들어주는 다양한 Template Engine 중 하나. (이는 필수는 아님 - 회사마다 다양한 엔진을 사용한다.)
