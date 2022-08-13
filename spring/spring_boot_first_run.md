@@ -52,7 +52,7 @@
 
 - `setting.gradle` : 이 역시 gradle을 더 심화해서 배워보면 알게 된다.
 
-<br>
+<br><br>
 
 > ❓ **gradle이란?**
 >
