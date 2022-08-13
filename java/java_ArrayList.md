@@ -275,7 +275,7 @@ Collections.sort(arr_list1, Collections.reverseOrder());	// arr_list1이라는 �
 
 <br><br>
 
-## Array의 길이 구하기
+## ArrayList의 길이 구하기
 
 `.size()` 를 활용하여 배열의 길이를 구할 수 있다.
   ```java
