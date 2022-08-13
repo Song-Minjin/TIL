@@ -29,6 +29,7 @@
     - **`spring-boot`**
         - `spring-core`
           <br>
+          
     - **`spring-boot-starter-logging`** : 로깅 관련
         - `logback`	: 성능이 빠르고 지원하는 기능이 좋음
         - `slf4j` : 인터페이스 (실제 로그를 구현체로 출력)
