@@ -2,56 +2,9 @@ Java collection과 관련된 이름들이 아주 많고, 따라서 어떻게 표
 
 저번 포스팅에 이어, 오늘은 Collections에 대해 집중적으로 파고 넘어가고자 한다.
 
+<br>
+
 > 지난 포스팅 바로 가기 👉🏻 [ [Java] Collection 프레임워크와 Collection 인터페이스](https://velog.io/@sw_smj/Java-%EC%BB%AC%EB%A0%89%EC%85%98-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%ACCollection-Framework%EC%99%80-%EC%BB%AC%EB%A0%89%EC%85%98-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4Collection-Interface)
-
-<br>
-
-# collection vs Collection vs Collections
-
-## collection
-
-
-: 데이터의 집합이나 그룹
-
-  - 객체가 저장되고 반복되는 자료구조
-
-<br>
-
-## Collection
-
-
-: 인터페이스
-(`java.util.Collection` 프레임워크)
- <br>
-
-- `Collection` '프레임워크' 내에 있는 `Collection` '인터페이스'
-
-  <br>
-
-- 여러 요소들을 담기 위해 만들어졌기 때문에, Container 객체라고도 불림
-
-  <br>
-- `Set`, `List`, `Queue` 인터페이스가 하위 인터페이스로서 있음
-<br>
-  <br>
-  - ex) `ArrayList` : `Collection` 인터페이스 → `List` 인터페이스 → `ArrayList` 클래스로 구현을 하는 것!
-
-    <br>
-
-## Collections &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  << 🚩 Today!
-
-
-: utility 클래스 <br>
-
-(`java.util.Collections` 클래스)
-
-
-<br><br>
-
-
-이처럼 **`Collection`**과 **`Collections`**는 뒤의 **`s`**자 하나로 칭하는 것이 다르다.
-
-오늘은 **3번, Collections 클래스**에 대해 Collection과 비교하며 확실히 알아보자.
 
 
 <br><br>
@@ -69,7 +22,8 @@ Collection은, 지난 포스팅에서 알아봤듯 인터페이스이며, Iterab
 > 
 > ![](https://velog.velcdn.com/images/sw_smj/post/ed0a8b0f-25dc-4df0-a205-0d563a130475/image.png)
 
-<br>
+<br><br>
+
 
 # Collections
 
@@ -79,7 +33,8 @@ Collection은, 지난 포스팅에서 알아봤듯 인터페이스이며, Iterab
 
 ![](https://velog.velcdn.com/images/sw_smj/post/33aff3ed-5b04-4fd5-a9f6-f7061ed29daf/image.png)
 
-<br>
+<br><br>
+
 
 
 # Collection vs Collections
@@ -100,6 +55,7 @@ Collection은, 지난 포스팅에서 알아봤듯 인터페이스이며, Iterab
 
 
 <br><br>
+
 
 # Collections 클래스
 
