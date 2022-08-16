@@ -25,7 +25,7 @@ String s = new String("Java");
 - 공간의 크기는 변수의 주소가 가리키는 실제 값(Java)의 크기만큼 생성된다.
 - 그리고 이 공간은 메모리 주소값을 할당받는다.
 
-<br><br>
+<br><br><br>
 
 # 변수의 선언 위치에 따라 구분
 <br>
@@ -47,7 +47,7 @@ String s = new String("Java");
 
 <br>
 
-### 1. 클래스변수 (class variable)
+## 1. 클래스변수 (class variable)
 &nbsp;&nbsp;&nbsp; = static 변수
 - **클래스 영역**에서 타입 앞에 static이 붙는 변수
 - 객체를 공유하는 변수
@@ -64,7 +64,7 @@ String s = new String("Java");
 
 <br>
 
-### 2. 인스턴스 변수 (instance variable)
+## 2. 인스턴스 변수 (instance variable)
 - **클래스 영역** 중 static이 아닌 변수
 - 개별적인 저장 공간으로 객체/인스턴스마다 다른 값 저장 가능
 - 즉, 인스턴스를 여러 개 생성했다면 각각의 참조 변수명으로 접근 가능. 각각에 값 저장 가능
@@ -86,7 +86,10 @@ String s = new String("Java");
 
 : 접근제어자를 사용하지 않음
 
-### 3. 지역 변수 (local variable)
+
+<br>
+
+## 3. 지역 변수 (local variable)
 - **메서드 내**에서 선언되고, 메서드 수행이 끝나면 소멸되는 변수
 - 초기값을 지정한 후 사용할 수 있음
   ```java
@@ -99,7 +102,7 @@ String s = new String("Java");
 
 <br>
 
-### 4. 매개변수 (parameter)
+## 4. 매개변수 (parameter)
 
 - **메서드 호출**시 '전달하는 값'을 가지고 있는 변수
 - 즉 함수를 정의할 때, 전달받은 인수를 함수 내부로 전달하기 위해 사용하는 변수
