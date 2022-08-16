@@ -84,5 +84,3 @@ INSERT INTO posts (title, author, content, password, delYN) VALUES
 ```sql
 SELECT * FROM posts;
 ```
-
-
